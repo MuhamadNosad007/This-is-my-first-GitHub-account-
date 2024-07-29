@@ -1,1 +1,96 @@
 # This-is-my-first-GitHub-account
+Mohit-coder94.github.io
+Profile
+
+Introduction
+I am Mohit kumar,and i am from Abohar.I really like programming and coding so therefore i take admission in branch computer science and engineering in the wonderful college Guru Nanak Dev Engineering College.I like to explore things.I want to develop a strong skill in coding.
+
+Education
+Class :- 12th
+From :- Meritorious School, Bathinda
+Marks details :-
+Subject	Obtained Marks	Total marks
+Maths	100	100
+Chemistry	100	100
+Physics	98	100
+Punajbi	96	100
+English	97	100
+My MS Excel certificate
+excel certificate
+
+Induction Activity Report
+Day 1 :-
+Date :- 10-07-2024
+My college journey began with listening to kirtan at the campus Gurdwara Sahib. It felt really good to receive blessings before starting something new. After that, we sat in the auditorium and listened to speeches from the guests on the first day.
+
+Guests of Day 1
+1. Pr. Dr. Sehijpal Singh
+Pr. Dr. Sehijpal Singh Welcomed us to the GNDEC campus and introduce us about the campus facilites and benefits.The cheif guest was greeted with warmth and enthusiasm as they took the stage. Their presence added a sepcial touch to the begining of our college jouney,making the day evern more memeorable.
+2. NSET Dir. S. Inderpal Singh
+The director of Nankana Sahib Education Trust emphasized that Guru Nanak Dev Engineering College was founded to honor Nankana Sahib,the birthplace of Guru Nanak Dev Ji.The college started as a Polytechnic in 1953 and was officially established in 1956 with a mission to use technology to uplift economically disadvantaged areas.They pledged to enroll 70% of students from rural backgrounds. Over the last 50 years, the college has graduated nearly 10,000 undergraduates and 3,000 postgraduates,contributing significantly to society.
+3. Er. Jiwandeep Singh
+Er. Jiwandeep Singh, a dedicated PCS officer, imparted valuable advice: he encouraged us not to wait passively for opportunities but to actively seize them when they arise. He emphasized the importance of never letting opportunities slip away, urging us to seek them out earnestly and make the most of them.Furthermore, he suggested engaging with in-depth content to enhance our understanding and discovering our passions early in our journeys. His words resonated with respect and wisdom, guiding us towards a proactive and purposeful approach in our endeavors
+4. SSP Rajeshwer Singh
+SSP Rajeshwar Singh inspired us to always choose the path of kindness and helping others. Every good thing we do, and every bad thing too, always matters. He encouraged us to embrace four essential phrases:
+I am Sorry
+Please forgive me
+Thank you
+I love you
+After every mistake and lie, we should immediately seek forgiveness from God. We can deceive others, but we can't deceive ourselves or God. Deep down, we always know the truth behind our lies.Just like Newton's third law states that every action has an equal and opposite reaction, whatever we give to the world and nature will eventually come back to us.
+
+Day 2 :-
+Date :- 11-07-2024
+Guests of Day 2
+1. Dr. Arvind Dhingra
+Today, we learned about the various societies and clubs on our college campus. They introduced us to SCIE, TSTE, E2S2 events, SAE, ISHRAI, ASME, ACM, PFA, CSI, the Data Science Club, Parwaaz Club, Live Wire Club, Causmic Club, English Club, ITian Club, and many more. Each group shared their goals and the benefits of joining them. Dr. Arvind Dhingra invited 22 students to the stage for a team strategy game, giving us a chance to introduce ourselves and experience personal and professional growth. Dr. Arvind Dhingra tells us about the type of memberships:-
+Member
+Active Member
+Executive Member
+Office Bearer
+2. Dr. Parminder Singh
+He showed us the college’s excellent facilities, including well-equipped hostels, a modern computer center, a Computer Mathematics Laboratory (CML), and a comprehensive library. There are also sports facilities for physical activity and workshops for practical learning. Students can participate in leadership and service through NCC and NSS, and the Cultural Committee enhances campus life with various events.
+3. Dr. H.S. Rai
+Dr. H.S. Rai, the Controller of Examinations, shared his view that exams are opportunities to shine. He also talked about his journey to the Google Summer of Code with his students. He then invited coding enthusiasts to join the CodeGNE group and encouraged us to create a GitHub page using markdown and start blogging.
+
+3Ps for Success:-
+
+Passion
+Persistence
+Patience
+Day 3 :-
+Date :- 12-07-2024
+On the third day of induction program, I attend the classes of maths and peer interaction. This is my first day of classes in this College.I enjoy this day.
+
+:- Peer interaction canva class
+In the class of peer interaction of canva our seniors of 2nd year teach us about various functions and features of canva and we are doing with them the practical. We made our projects. The canva class is very interesting. canva
+:- Maths calss
+Assistant professor of Mathematics, Mr.Neeraj kumar sir take the classs of maths. He teach basic of derivatives and formulas . We solve many problems and learn jayfully.
+Day 4 :-
+Date :- 15-07-2024
+Speakers of Day 2
+1. Dr. Randhir Singh
+In this short session with Randhir Sir, he showed us how to create a GitHub page.
+2. Dr. Pyare Lal Garg
+A wise sage shares his wisdom through poetry, encouraging us to believe in our potential. He teaches that with determination, any dream can be achieved. Embrace your passions, stay positive, and see challenges as chances to grow. Everyone faces failure, but resilience brings success. Choose hope over despair and focus on self-improvement. Your path to greatness starts from within.
+3. Mr. Sony Goyal
+Mr. Sony Goyal, a fantastic educator, gave an inspiring session on effective planning and personal excellence in engineering education. He stressed the importance of putting your full effort into every task and encouraged us to view the “science stream” more broadly instead of calling it “non-medical.” He advised focusing on one task at a time for the best results and urged us to learn with both our minds and hearts. Mr. Goyal encouraged us to ask questions whenever we have doubts. His passionate and engaging approach left a strong impression, motivating students to pursue academic excellence and personal growth with renewed enthusiasm.
+
+Always Remember
+
+Give your 100%
+Do what you love, love what you do
+Should have Efficiency and Compatibility
+4. Mr. Pancham
+He taught us about non-verbal communication, body language, and behavior. His skill in reading facial expressions, gestures, and the nuances of effective communication was impressive. Mr. Pancham’s interactive style made the learning engaging and practical, helping us better understand non-verbal cues and improve our interpersonal skills. He also shared inspiring stories and lessons from his leadership experiences in various societies. Later, he introduced us to the SAE Club, which offers exciting and creative activities that left me truly amazed.
+Day 5 :-
+Date :- 16-07-2024
+:- English Activity class
+In the class of English Activity there is our english based quiz in the hall there is two team of two sections section C and section D .The quiz is very enjoyable.In the next lecture there are 6 teams of both the sections and quiz is related to general knowledge this is very enjoyful moment for us.
+
+Day 6 :-
+Date :- 17-07-2024
+:- Maths class
+On the day 6 of induction program the first lecture is maths lecture and Mr.Sukhminder singh teach again the basic of derivatives and at the last he gave us home work of 15 sums.
+
+:- UHV
+Mrs.Nisha Mam
