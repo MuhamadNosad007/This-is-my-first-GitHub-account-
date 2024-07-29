@@ -1,2 +1,2 @@
 # Introduction
-![](MUHAMAD.jpg)
+![](MUHAMAD.jpg.JPG)
