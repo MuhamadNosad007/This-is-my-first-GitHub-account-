@@ -1,2 +1,1 @@
-# This-is-my-first-GitHub-account-
-Hello
+# This-is-my-first-GitHub-account
